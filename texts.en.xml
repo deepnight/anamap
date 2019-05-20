@@ -1,0 +1,81 @@
+<texts>
+	<t id="Load">Load map</t>
+	<t id="Save">Save map</t>
+	<t id="ExportImage">Export PNG</t>
+	<t id="Reset">Reset!</t>
+	<t id="Cancel">Cancel</t>
+	<t id="Draft">Draft mode</t>
+	<t id="Theme">Dark theme</t>
+	<t id="Help">Help me!</t>
+	<t id="Close">Close window</t>
+	<t id="Samples">Examples</t>
+	<t id="SampleIn">Necromancer dungeon</t>
+	<t id="SampleOut">Outside building</t>
+	<t id="SampleCthulhu">Typical Cthulhu haunted manor</t>
+	<t id="Options">Options</t>
+	<t id="Lang">Language</t>
+	<t id="ExportGrid">Show the grid</t>
+	<t id="ExportStripes">Show wall stripes</t>
+	<t id="PrintBW">Print in Black and White</t>
+	<t id="Print">Print image</t>
+	<t id="PrintSize">Print size</t>
+	<t id="PrintSizeNormal">Normal</t>
+	<t id="PrintSizeLarge">Large</t>
+	<t id="PrintError">Hmm, it's embarassing... I couldn't connect to your printer. Do you really have one?</t>
+	<t id="EmptyLevel">I can't do that, this map is empty.</t>
+	<t id="About">About ::title::</t>
+	<t id="HomePage">Home page</t>
+	<t id="Version">::title:: ::v::, Freeware, by Sébastien Bénard</t>
+
+	<t id="Ok">Ok</t>
+	<t id="FontSize">Size</t>
+	<t id="FontSmall">Small</t>
+	<t id="FontMedium">Medium</t>
+	<t id="FontBig">Big</t>
+	<t id="Align">Align</t>
+	<t id="AlignLeft">Left</t>
+	<t id="AlignCenter">Center</t>
+	<t id="AlignRight">Right</t>
+	<t id="Delete">Delete</t>
+	
+	<t id="ResetDone">OMG omg omg (CTRL-Z to cancel).</t>
+	
+	<t id="Loaded">Hey, hello again, "::file::"!</t>
+	<t id="Saved">Everything safely stored in "::file::".</t>
+	<t id="ErrLoading">Couldn't read file "::file::": is it really a map file?</t>
+	<t id="ErrLoadingCookie">OMG, failed to load last session!</t>
+	<t id="Canceled">Canceled.</t>
+	<t id="CannotCancel">Sorry, cannot cancel further...</t>
+	<t id="SampleLoaded">Demo sample loaded (CTRL-Z to cancel)!</t>
+	
+	<t id="ImageSaved">Image saved in "::file::". Woohoo!</t>
+	
+	<t id="TipGround">Left click to add or remove walls</t>
+	<t id="TipText">Left click to create a text|Right click to remove an existing one</t>
+	<t id="TipAsset">SPACE to rotate the active asset|Left click to place it|Right click to remove one</t>
+	
+	<t id="HelpContent">
+		TOOL "ROOM/WALLS"
+		-----------------
+		::ground::
+		
+		TOOL "TEXTS"
+		------------
+		::text::
+		
+		TOOLS "ASSETS"
+		--------------
+		::asset::
+		
+		MISC
+		----
+		Middle click: pan the view
+		ARROW keys: move the current level
+		CTRL-Z: Cancel
+	</t>
+	
+	<!-- Tools -->
+	<t id="Tool_Ground">Room/walls</t>
+	<t id="Tool_Text">Edit texts</t>
+	<t id="Assets">Assets</t>
+</texts>

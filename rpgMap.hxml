@@ -1,0 +1,13 @@
+-cp src
+-swf swf/client.swf
+-swf-header 800:800:60:FFFFFF
+-swf-lib obj\rpgMapResources.swf
+--flash-strict
+-swf-version 11.2
+-main Main
+-lib format
+-resource sample_inside.json@sample_in
+-resource sample_outside.json@sample_out
+-resource sample_cthulhu.json@sample_cthulhu
+-resource texts.en.xml@en
+-resource texts.fr.xml@fr

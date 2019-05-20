@@ -1,0 +1,81 @@
+<texts>
+	<t id="Load">Charger</t>
+	<t id="Save">Sauver</t>
+	<t id="ExportImage">Exporter Image</t>
+	<t id="Reset">Tout effacer !</t>
+	<t id="Cancel">Annuler</t>
+	<t id="Draft">Mode brouillon</t>
+	<t id="Theme">Thème Sombre</t>
+	<t id="Help">Aide</t>
+	<t id="Close">Fermer</t>
+	<t id="Samples">Exemples</t>
+	<t id="SampleIn">Donjon du nécromancien</t>
+	<t id="SampleOut">Bâtiment extérieur</t>
+	<t id="SampleCthulhu">Manoir de Cthulhu typique</t>
+	<t id="Options">Options</t>
+	<t id="Lang">Langue</t>
+	<t id="ExportGrid">Afficher le quadrillage</t>
+	<t id="ExportStripes">Afficher les hachures</t>
+	<t id="PrintBW">Impression noir et blanc</t>
+	<t id="Print">Imprimer</t>
+	<t id="PrintSize">Taille d'impression</t>
+	<t id="PrintSizeNormal">Normale</t>
+	<t id="PrintSizeLarge">Grande</t>
+	<t id="PrintError">Hmm petit soucis : je n'arrive pas à me connecter à votre imprimante. Vous en avez une au moins ?</t>
+	<t id="EmptyLevel">Je ne peux pas faire ça, la carte actuelle est VIDE.</t>
+	<t id="About">A propos de ::title::</t>
+	<t id="HomePage">Site officiel</t>
+	<t id="Version">::title:: ::v::, Freeware, par Sébastien Bénard</t>
+
+	<t id="Ok">Ok</t>
+	<t id="FontSize">Taille</t>
+	<t id="FontSmall">Petite</t>
+	<t id="FontMedium">Moyenne</t>
+	<t id="FontBig">Grande</t>
+	<t id="Align">Alignement</t>
+	<t id="AlignLeft">Gauche</t>
+	<t id="AlignCenter">Centre</t>
+	<t id="AlignRight">Droite</t>
+	<t id="Delete">Supprimer</t>
+	
+	<t id="ResetDone">BOOOoooum !! (CTRL-Z pour annuler)</t>
+	
+	<t id="Loaded">Hey, content de te revoir "::file::" !</t>
+	<t id="Saved">Tout a été soigneusement enregistré dans "::file::".</t>
+	<t id="ErrLoading">Impossible de lire "::file::" : c'est vraiment un fichier Carte ?</t>
+	<t id="ErrLoadingCookie">Ouh punaise, impossible de recharger la dernière session !</t>
+	<t id="Canceled">Annulé.</t>
+	<t id="CannotCancel">Impossible d'annuler plus que ça...</t>
+	<t id="SampleLoaded">Exemple chargé (CTRL-Z pour annuler).</t>
+	
+	<t id="ImageSaved">Image sauvegardée dans "::file::". Wouhou!</t>
+
+	<t id="TipGround">Clic gauche pour ajouter ou supprimer un mur</t>
+	<t id="TipText">Clic gauche pour créer un texte (ou en éditer un)|Clic droit pour en supprimer un</t>
+	<t id="TipAsset">ESPACE pour tourner l'objet choisi|Clic gauche pour le placer|Clic droit pour supprimer un objet</t>
+	
+	<t id="HelpContent">
+		OUTIL "SALLES/MURS"
+		-------------------
+		::ground::
+		
+		OUTIL "TEXTE"
+		-------------
+		::text::
+		
+		OUTILS "OBJETS"
+		---------------
+		::asset::
+		
+		DIVERS
+		------
+		Clic du milieu: déplacer la vue (maintenir)
+		Touche flêchées : déplacer toute la carte
+		CTRL-Z: Annuler
+	</t>
+	
+	<!-- Tools -->
+	<t id="Tool_Ground">Salles/Murs</t>
+	<t id="Tool_Text">Editer textes</t>
+	<t id="Assets">Objets</t>
+</texts>
